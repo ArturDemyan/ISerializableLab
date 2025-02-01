@@ -1,0 +1,7 @@
+/ISerializableLB/bin
+*.sln
+*.targets
+*.props
+/TestSearchFile/obj
+/TestSearchFile/bin
+/ISerializableLB/obj

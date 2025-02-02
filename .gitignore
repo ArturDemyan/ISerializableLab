@@ -1,0 +1,8 @@
+/ISerializableLB/bin
+*.sln
+*.csproj
+*.targets
+*.props
+/TestSearchFile/obj
+/TestSearchFile/bin
+/ISerializableLB/obj
